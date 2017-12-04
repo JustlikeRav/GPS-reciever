@@ -1,6 +1,12 @@
 GPS sensor for Raspberry Pi 3 by Ravneet Singh
 ==============================================
-
+### December 4th, 2017
+After fixing the board the sensors including the LED worked<br>
+![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/AllSensorsWorking.jpeg?raw=true "Sensors")<br>
+LED working<br>
+![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/led.jpeg?raw=true "Sensors")<br>
+There was a problem in my PCB board. I was shorted. Kelly Grey scratched the extra copper and fixed<br>
+![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/PCBscratch.jpeg?raw=true "PCB board after scratching")<br>
 ### December 1st, 2017
 Got another sd card and installed Android Marshmellow on it. I know have 2 sd operating systems just to be safe.
 I used the following tools to install the android and raspbian images on the sd cards: <br>
@@ -8,6 +14,7 @@ I used the following tools to install the android and raspbian images on the sd 
 ![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/sdcardformater.JPG?raw=true "SD card formater to format sd cards efficiantly")<br>
 ### November 20th, 2017
 Done soldering the PCB Board, hardware should be ready to go<br>
+![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/soldering.jpeg?raw=true "Me Soldering")<br>
 ![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/eveything.jpeg?raw=true "Every hardware unit put together")<br>
 ![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/pcb.jpeg?raw=true "PCB board with the sensors")<br>
 ![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/pcbwithoutsensors.jpeg?raw=true "PCB board without sensors")<br>
