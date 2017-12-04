@@ -7,7 +7,7 @@ I used the following tools to install the android and raspbian images on the sd 
 ![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/diskimager.JPG)"This software extracts the image files and wrties it on the sd card"<br>
 ![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/sdcardformater.JPG)"SD card formater to format sd cards efficiantly"<br>
 ### November 20th, 2017
-Done soldering the PCB Board, hardware should be ready to go
+Done soldering the PCB Board, hardware should be ready to go<br>
 ![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/eveything.jpeg)"Every hardware unit put together"<br>
 ![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/pcb.jpeg)"PCB board with the sensors"<br>
 ![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/pcbwithoutsensors.jpeg)"PCB board without sensors"<br>
