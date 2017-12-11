@@ -2,7 +2,7 @@ GPS sensor for Raspberry Pi 3 by Ravneet Singh
 ==============================================
 ### December 11th, 2017
 Created the 30 seconds script and did my best to efficiently explain the my project in 90 words<br>
--  [Script](https://github.com/JustlikeRav/GPS-reciever/blob/master/Script.docx)<br>
+-  [Script](https://github.com/JustlikeRav/GPS-reciever/blob/master/script.docx)<br>
 ### December 9th, 2017
 This is me and my team member's (Gaganpreet Singh) Placard and describes our project and it's functionality<br>
 ![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/placard.JPG?raw=true "Placard")<br>
