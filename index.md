@@ -5,7 +5,7 @@ This is me and my team member's (Gaganpreet Singh) Placard and describes our pro
 ![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/placard.JPG?raw=true "Placard")<br>
 This is my Placards<br>
 
-[Script]
+-  [Script](https://github.com/JustlikeRav/GPS-reciever/blob/master/Script.docx)
 ### December 4th, 2017
 After fixing the board the sensors including the LED worked<br>
 ![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/AllSensorsWorking.jpeg?raw=true "Sensors")<br>
