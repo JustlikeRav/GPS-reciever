@@ -1,5 +1,9 @@
 GPS sensor for Raspberry Pi 3 by Ravneet Singh
 ==============================================
+### December 10th, 2017
+This is me and my team member's (Gaganpreet Singh and Princess Hernandez) Placard and describes our project and it's functionality<br>
+![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/placard.JPG?raw=true "Placard")<br>
+This is my Placards<br>
 ### December 4th, 2017
 After fixing the board the sensors including the LED worked<br>
 ![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/AllSensorsWorking.jpeg?raw=true "Sensors")<br>
