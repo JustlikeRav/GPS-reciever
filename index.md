@@ -1,5 +1,8 @@
 GPS sensor for Raspberry Pi 3 by Ravneet Singh
 ==============================================
+### January 15 2018
+
+This is my [Powerpoint presentation for the entire project](https://github.com/JustlikeRav/GPS-reciever/blob/master/index.md) for week 11.
 ### January 06 2018
 
 This is my [Progress Report](https://github.com/JustlikeRav/GPS-reciever/blob/master/Ravneet%20Progress%20Report.docx) for week 10.
