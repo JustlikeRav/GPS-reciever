@@ -39,6 +39,9 @@ The entire project should not take more than 45 minutes to complete. The sensor 
 7.	Connect the GPS receiver with the pi by USB.
 8.	Use the following command and the program will start running: cgps -s
 <br>
+![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/eveything.jpeg?raw=true "Everything")
+<br>
+<br>
 ![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/GPSoutput.JPG?raw=true "GPS")
 <br>
 ## Unit Testing
