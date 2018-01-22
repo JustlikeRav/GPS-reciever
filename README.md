@@ -42,7 +42,6 @@ The entire project should not take more than 45 minutes to complete. The sensor 
 ![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/GPSoutput.JPG?raw=true "GPS")
 <br>
 ## Step 4: Unit Testing
-<br>
 This GPS receiver doesn't work indoors. The information of user's location is received by connecting with multiple satellites orbiting the Earth. For this connection, the sensor must be under open sky.
 <br>
 ## Step 5: Production Testing
