@@ -37,17 +37,16 @@ The entire project should not take more than 45 minutes to complete. The sensor 
 5.	Next we need to start the daemon. This is done using the following command: "sudo gpsd /dev/ttyUSB0 -F /var/run/gpsd.sock"
 6.	Ignore any messages from the console or in the log files, you may see it complaining about IPv6 but you can ignore that.
 7.	Connect the GPS receiver with the pi by USB.
-8.	Use the following command and the program will start running: cgps -s
-<br>
+8.	Use the following command and the program will start running: cgps -s<br>
 ![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/GPSoutput.JPG?raw=true "GPS")
 <br>
-## Step 4: Unit Testing
+## Step 5: Unit Testing
 This GPS receiver doesn't work indoors. The information of user's location is received by connecting with multiple satellites orbiting the Earth. For this connection, the sensor must be under open sky.
 <br>
-## Step 5: Production Testing
+## Step 6: Production Testing
 If the raspberry-pi-3-model-b is purchased in bluck, i.e. more than 100 raspberrypis then cost of each pi drops down to CA$35 per pi. No such discount is offered by the GPS receiver. Since the code running on the pi is free and same for every scenario the total cost of production would reach CA$9,375 which is 10.7% cheaper than the original cost per unit. 
 
-## Step 6: References:
+## Step 7: References:
 http://usglobalsat.com/p-688-bu-353-s4.aspx#images/product/large/688.jpg
 <br>
 https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=128028
