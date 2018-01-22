@@ -38,8 +38,7 @@ The entire project should not take more than 45 minutes to complete. The sensor 
 6.	Ignore any messages from the console or in the log files, you may see it complaining about IPv6 but you can ignore that.
 7.	Connect the GPS receiver with the pi by USB.
 8.	Use the following command and the program will start running: cgps -s<br>
-![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/GPSoutput.JPG?raw=true "GPS")
-<br>
+![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/GPSoutput.JPG?raw=true "GPS")<br>
 ## Step 5: Unit Testing
 This GPS receiver doesn't work indoors. The information of user's location is received by connecting with multiple satellites orbiting the Earth. For this connection, the sensor must be under open sky.<br>
 ## Step 6: Production Testing
