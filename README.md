@@ -41,8 +41,7 @@ The entire project should not take more than 45 minutes to complete. The sensor 
 ![Alt text](https://github.com/JustlikeRav/GPS-reciever/blob/master/GPSoutput.JPG?raw=true "GPS")
 <br>
 ## Step 5: Unit Testing
-This GPS receiver doesn't work indoors. The information of user's location is received by connecting with multiple satellites orbiting the Earth. For this connection, the sensor must be under open sky.
-<br>
+This GPS receiver doesn't work indoors. The information of user's location is received by connecting with multiple satellites orbiting the Earth. For this connection, the sensor must be under open sky.<br>
 ## Step 6: Production Testing
 If the raspberry-pi-3-model-b is purchased in bluck, i.e. more than 100 raspberrypis then cost of each pi drops down to CA$35 per pi. No such discount is offered by the GPS receiver. Since the code running on the pi is free and same for every scenario the total cost of production would reach CA$9,375 which is 10.7% cheaper than the original cost per unit. 
 
